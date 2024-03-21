@@ -8,7 +8,7 @@ from inbound requests, and have not had any cleaning or quality checks associate
 
 ### 2. A linkedin company level dataset
 This is the result of scraping company pages from LinkedIn, and storing job metadata in a JSON column where it is found.
-Note that this is the rawest output of the scraping, and may contain duplicates, or other issues.
+Note that this is a raw output of linkedin scraping, and may contain duplicates, or other issues.
 
 ### Output
 
