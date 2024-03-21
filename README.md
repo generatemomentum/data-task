@@ -2,11 +2,11 @@
 
 This is a task designed to assess your ability to query, assess and manipulate raw data in SQL. This repository contains two datasets, in CSV format:
 
-### 1. An "account" level dataset
-This represents a list of companies which exist in a customer relationship management system. These may have been generated
-from inbount requests, and have not had any cleaning or quality checks associated with them.
+### 1. An account level dataset
+This represents a list of companies which exist in a customer relationship management system. These may be prospective customers for one of our customers. These may have been generated
+from inbound requests, and have not had any cleaning or quality checks associated with them.
 
-### 2. A "jobs" level dataset
+### 2. A linkedin company level dataset
 This is the result of scraping company pages from LinkedIn, and storing job metadata in a JSON column where it is found.
 Note that this is the rawest output of the scraping, and may contain duplicates, or other issues.
 
