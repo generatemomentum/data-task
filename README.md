@@ -6,9 +6,9 @@ This is a task designed to assess your ability to query, assess and manipulate r
 This represents a list of companies which exist in a customer relationship management system. These may be prospective customers for one of Momentum's customers. These may have been generated
 from inbound requests, and have not had any cleaning or quality checks associated with them.
 
-### 2. A linkedin company level dataset `sample_jobs.csv`
+### 2. A linkedin company level dataset `sample_company_profiles.csv`
 This is the result of scraping company pages from LinkedIn, and storing job metadata in a JSON column where it is found.
-Note that this is a raw output of linkedin scraping technology, and may contain duplicates, or other issues.
+Note that this is a raw output of scraping LinkedIn, and may contain duplicates, or other issues.
 
 ### Output
 
