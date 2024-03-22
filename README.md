@@ -58,8 +58,8 @@ The columns in the output should include:
 
 The account score should be the sum of the above rules.
 
+The supplied tables are in a CSV format. These should be loaded into a SQL-based database of your choice. Postgres is preferred, but not mandatory.
 
-The supplied tables are in a CSV format. These should be loaded into a SQL-based database of your choice.
+## Submission
 
-The task submission should be one or more SQL files used to deliver the final output from the supplied raw data.
-
+The task submission should be one or more SQL files that you used to deliver the final output from the supplied raw data.
