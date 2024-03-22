@@ -1,4 +1,4 @@
-# Data Task
+# Momentum Data Task
 
 This is a task designed to assess your ability to query, assess and manipulate raw data in SQL. This repository contains two datasets, in CSV format:
 
